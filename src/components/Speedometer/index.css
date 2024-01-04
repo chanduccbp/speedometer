@@ -1,0 +1,47 @@
+/* Write your CSS here */
+
+.mh {
+  color: #ffffff;
+  font-family: 'roboto';
+}
+
+.head {
+  color: #ffffff;
+  font-family: 'roboto';
+  font-size: 28px;
+}
+
+.para {
+  color: #ffffff;
+  font-family: 'roboto';
+}
+
+.image {
+  width: 200px;
+}
+
+.butt1 {
+  background-color: #0b69ff;
+  border-style: none;
+  color: #ffffff;
+  border-radius: 5px;
+  margin-right: 30px;
+  cursor: pointer;
+  outline: none;
+}
+
+.butt2 {
+  background-color: transparent;
+  border: solid 2px #cbd5e1;
+  color: #94a3b8;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
